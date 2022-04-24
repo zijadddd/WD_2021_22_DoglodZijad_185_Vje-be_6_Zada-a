@@ -9,15 +9,6 @@
 
 3. Koristiti neki bootstrap element za prikaz podataka (npr. card - slika nije bitna, može biti i 
 defaultna)
-
-        <div class="card" style="width: 18rem;" id="cardForAPI">
-            <img src="..." class="card-img-top" alt="profilephoto">
-            <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Go somewhere</a>
-            </div>
-          </div>
 ---------------------------------------------------------------------------------------------
 */
 
